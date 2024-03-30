@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebRTC Video Calling</string>
+    <string name="username">username</string>
+    <string name="enter">enter</string>
+    <string name="someone_is_calling">someone is calling</string>
+    <string name="enter_your_name">Enter your name</string>
+</resources>
